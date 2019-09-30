@@ -14,6 +14,8 @@ Then start the node server with: node index.js
 
 The server should be running on http://localhost:5000
 
+Here you can see the backend and GraphQL documentation.
+
 In a new terminal naviagte to the zombies folder again
 
 Then navigate into the client folder: cd client
