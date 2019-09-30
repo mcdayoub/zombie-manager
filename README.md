@@ -6,7 +6,7 @@ In order to run this locally please clone the repository: git clone https://gith
 
 Then navigate into the zombies folder: cd zombie-manager
 
-Navigate to the backend directory: cd backent
+Navigate to the backend directory: cd backend
 
 Then run: npm install
 
