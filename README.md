@@ -1,4 +1,3 @@
-# zombie-manager
 # Greetings, new Zombie Manager
 
 This is a ReactJS app that utilizes React Hooks, Apollo, GraphQL, NodeJS and many more.
