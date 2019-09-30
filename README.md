@@ -1,6 +1,6 @@
 # Greetings, new Zombie Manager
 
-This is a ReactJS app that utilizes React Hooks, Apollo, GraphQL, NodeJS and many more.
+This is a ReactJS app that utilizes React Hooks, Apollo, GraphQL, MongoDB, NodeJS and many more.
 
 In order to run this locally please clone the repository: git clone https://github.com/mcdayoub/zombie-manager.git
 
