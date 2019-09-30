@@ -4,7 +4,7 @@ This is a ReactJS app that utilizes React Hooks, Apollo, GraphQL, NodeJS and man
 
 In order to run this locally please clone the repository: git clone https://github.com/mcdayoub/zombie-manager.git
 
-Then navigate into the zombies folder: cd zombie-manager/zombies
+Then navigate into the zombies folder: cd zombie-manager
 
 Navigate to the backend directory: cd backent
 
